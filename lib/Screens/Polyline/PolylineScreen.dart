@@ -39,7 +39,7 @@ class _PolylineScreenState extends State<PolylineScreen> {
   LatLng origin = const LatLng(0, 0);
   LatLng destination = const LatLng(0, 0);
 
-  String apiKey = "AIzaSyBEeYAIyWcXzEznza4XOIdkuwpc0Q3FB9c";
+  String apiKey = "";
 
   PolylineResponse polylineResponse = PolylineResponse();
 
